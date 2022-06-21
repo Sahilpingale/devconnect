@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://sahil123:sahil123@devconnector.dqdngzm.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"123456789",
+    "githubClientId":"c555cee1f0e2bd591c7e",
+    "githubSecret":"0dba0ece22edaf5198bda062bbdcf08b5af29489"
+}
